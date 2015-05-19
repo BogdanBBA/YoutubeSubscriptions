@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry xmlns='http://www.w3.org/2005/Atom' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/' gd:etag='W/&quot;DUEEQX47eCp7I2A9XRVTFkQ.&quot;'>
+  <id>tag:youtube.com,2008:user:u17Sme-KE87ca9OTzP0p7g</id>
+  <published>2011-04-09T02:10:56.000Z</published>
+  <updated>2015-05-04T00:00:00.000Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#userProfile'/>
+  <category scheme='http://gdata.youtube.com/schemas/2007/channeltypes.cat' term='DIRECTOR'/>
+  <title>VintageBeef</title>
+  <summary>I play all sorts of video games! Hope you enjoy your stay!</summary>
+  <link rel='alternate' type='text/html' href='http://www.youtube.com/channel/UCu17Sme-KE87ca9OTzP0p7g'/>
+  <link rel='self' type='application/atom+xml' href='http://gdata.youtube.com/feeds/api/users/u17Sme-KE87ca9OTzP0p7g?v=2'/>
+  <author>
+    <name>VintageBeef</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/VintageBeef</uri>
+    <yt:userId>u17Sme-KE87ca9OTzP0p7g</yt:userId>
+  </author>
+  <yt:channelId>UCu17Sme-KE87ca9OTzP0p7g</yt:channelId>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.subscriptions' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/subscriptions?v=2' countHint='32'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.liveevent' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/live/events?v=2' countHint='0'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.favorites' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/favorites?v=2' countHint='2'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.contacts' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/contacts?v=2' countHint='208'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.inbox' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/inbox?v=2'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.playlists' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/playlists?v=2'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.uploads' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/uploads?v=2' countHint='2853'/>
+  <gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.newsubscriptionvideos' href='http://gdata.youtube.com/feeds/api/users/vintagebeef/newsubscriptionvideos?v=2'/>
+  <yt:firstName>VintageBeef</yt:firstName>
+  <yt:googlePlusUserId>102178076138360380942</yt:googlePlusUserId>
+  <yt:location>CA</yt:location>
+  <yt:statistics lastWebAccess='1970-01-01T00:00:00.000Z' subscriberCount='1096711' videoWatchCount='0' viewCount='0' totalUploadViews='307659001'/>
+  <media:thumbnail url='http://yt3.ggpht.com/-CG6foIgF79M/AAAAAAAAAAI/AAAAAAAAAAA/fhgkswkgvH8/s88-c-k-no/photo.jpg'/>
+  <yt:userId>u17Sme-KE87ca9OTzP0p7g</yt:userId>
+  <yt:username display='VintageBeef'>vintagebeef</yt:username>
+</entry>

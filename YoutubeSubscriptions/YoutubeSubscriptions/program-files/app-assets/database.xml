@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Youtubers>
+    <TYoutuber>
+      <ID>VintageBeef</ID>
+      <Name>VintageBeef</Name>
+      <InfoLastUpdated>2015-05-04T18:40:40.0783207+03:00</InfoLastUpdated>
+      <Joined>2011-04-09T02:10:56</Joined>
+      <Subscribers>1096711</Subscribers>
+      <TotalVideos>2853</TotalVideos>
+      <TotalViews>307659001</TotalViews>
+      <Videos>
+        <TVideo>
+          <ID>UKY3scPIMd8</ID>
+          <Uploaded>2015-04-17T15:23:22</Uploaded>
+          <Title>https://youtube.com/devicesupport</Title>
+          <Duration>236</Duration>
+          <Views>3991927</Views>
+          <Likes>0</Likes>
+          <Dislikes>0</Dislikes>
+          <AvgRating>0</AvgRating>
+          <Comments>0</Comments>
+        </TVideo>
+      </Videos>
+    </TYoutuber>
+    <TYoutuber>
+      <ID>EthosLab</ID>
+      <Name>Etho</Name>
+      <InfoLastUpdated>2015-05-04T18:24:58.49244+03:00</InfoLastUpdated>
+      <Joined>2008-09-23T20:09:14</Joined>
+      <Subscribers>1763951</Subscribers>
+      <TotalVideos>1463</TotalVideos>
+      <TotalViews>468539620</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>FalseSymmetry</ID>
+      <Name>FalseSymmetry</Name>
+      <InfoLastUpdated>2015-05-04T18:24:58.737615+03:00</InfoLastUpdated>
+      <Joined>2010-10-11T15:43:57</Joined>
+      <Subscribers>39098</Subscribers>
+      <TotalVideos>414</TotalVideos>
+      <TotalViews>1806128</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>Aureylian</ID>
+      <Name>Aureylian</Name>
+      <InfoLastUpdated>2015-05-04T18:24:58.2382509+03:00</InfoLastUpdated>
+      <Joined>2011-12-19T14:46:13</Joined>
+      <Subscribers>291438</Subscribers>
+      <TotalVideos>818</TotalVideos>
+      <TotalViews>21913144</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>OMGitsFirefox</ID>
+      <Name>OMGitsFireFoxx</Name>
+      <InfoLastUpdated>2015-05-04T18:24:59.1078814+03:00</InfoLastUpdated>
+      <Joined>2013-09-03T17:37:00</Joined>
+      <Subscribers>480872</Subscribers>
+      <TotalVideos>762</TotalVideos>
+      <TotalViews>26824723</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>Zisteau</ID>
+      <Name>Zisteau</Name>
+      <InfoLastUpdated>2015-05-04T18:24:59.9204714+03:00</InfoLastUpdated>
+      <Joined>2008-11-26T07:16:31</Joined>
+      <Subscribers>375736</Subscribers>
+      <TotalVideos>1585</TotalVideos>
+      <TotalViews>55233845</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>kurtjmac</ID>
+      <Name>KurtJMac</Name>
+      <InfoLastUpdated>2015-05-04T18:25:00.4588622+03:00</InfoLastUpdated>
+      <Joined>2008-03-31T02:07:43</Joined>
+      <Subscribers>374549</Subscribers>
+      <TotalVideos>1894</TotalVideos>
+      <TotalViews>60463928</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>markiplierGAME</ID>
+      <Name>Markiplier</Name>
+      <InfoLastUpdated>2015-05-04T18:25:00.5979619+03:00</InfoLastUpdated>
+      <Joined>2012-05-26T20:30:52</Joined>
+      <Subscribers>7523177</Subscribers>
+      <TotalVideos>2290</TotalVideos>
+      <TotalViews>2229713890</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>TotalHalibut</ID>
+      <Name>Total Biscuit</Name>
+      <InfoLastUpdated>2015-05-04T18:25:01.2654459+03:00</InfoLastUpdated>
+      <Joined>2006-07-27T14:19:51</Joined>
+      <Subscribers>2028814</Subscribers>
+      <TotalVideos>2791</TotalVideos>
+      <TotalViews>630838659</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>OfficialNerdCubed</ID>
+      <Name>NerdCubed</Name>
+      <InfoLastUpdated>2015-05-04T18:25:01.1043319+03:00</InfoLastUpdated>
+      <Joined>2011-03-20T19:26:04</Joined>
+      <Subscribers>2148052</Subscribers>
+      <TotalVideos>1213</TotalVideos>
+      <TotalViews>690251339</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>scishow</ID>
+      <Name>SciShow</Name>
+      <InfoLastUpdated>2015-05-04T18:25:02.0390068+03:00</InfoLastUpdated>
+      <Joined>2011-10-20T16:11:13</Joined>
+      <Subscribers>2602028</Subscribers>
+      <TotalVideos>669</TotalVideos>
+      <TotalViews>284103023</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>crashcourse</ID>
+      <Name>Crash Course</Name>
+      <InfoLastUpdated>2015-05-04T18:25:01.7998346+03:00</InfoLastUpdated>
+      <Joined>2006-05-20T02:43:42</Joined>
+      <Subscribers>3017423</Subscribers>
+      <TotalVideos>377</TotalVideos>
+      <TotalViews>220054763</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>DNewsChannel</ID>
+      <Name>DNews</Name>
+      <InfoLastUpdated>2015-05-04T18:25:02.622446+03:00</InfoLastUpdated>
+      <Joined>2012-09-12T21:13:49</Joined>
+      <Subscribers>1232545</Subscribers>
+      <TotalVideos>1841</TotalVideos>
+      <TotalViews>252139542</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>TestTubeNetwork</ID>
+      <Name>TestTube</Name>
+      <InfoLastUpdated>2015-05-04T18:25:02.4853308+03:00</InfoLastUpdated>
+      <Joined>2013-01-24T01:44:35</Joined>
+      <Subscribers>392065</Subscribers>
+      <TotalVideos>300</TotalVideos>
+      <TotalViews>39965107</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>JaclynGlenn</ID>
+      <Name>Jaclyn Glenn</Name>
+      <InfoLastUpdated>2015-05-04T18:25:03.5010702+03:00</InfoLastUpdated>
+      <Joined>2011-03-23T04:21:04</Joined>
+      <Subscribers>307608</Subscribers>
+      <TotalVideos>248</TotalVideos>
+      <TotalViews>25565750</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>tytuniversity</ID>
+      <Name>ThinkTank</Name>
+      <InfoLastUpdated>2015-05-04T18:25:03.1618687+03:00</InfoLastUpdated>
+      <Joined>2010-12-06T22:54:55</Joined>
+      <Subscribers>592672</Subscribers>
+      <TotalVideos>2886</TotalVideos>
+      <TotalViews>267658785</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>SethBling</ID>
+      <Name>SethBling</Name>
+      <InfoLastUpdated>2015-05-04T18:25:04.4297403+03:00</InfoLastUpdated>
+      <Joined>2006-12-19T21:08:07</Joined>
+      <Subscribers>1846615</Subscribers>
+      <TotalVideos>805</TotalVideos>
+      <TotalViews>387366820</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>OMGchad</ID>
+      <Name>OMGchad</Name>
+      <InfoLastUpdated>2015-05-04T18:25:05.2733565+03:00</InfoLastUpdated>
+      <Joined>2006-05-21T18:45:02</Joined>
+      <Subscribers>73715</Subscribers>
+      <TotalVideos>894</TotalVideos>
+      <TotalViews>5480772</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>Vechz</ID>
+      <Name>Vechs</Name>
+      <InfoLastUpdated>2015-05-04T18:25:06.0079373+03:00</InfoLastUpdated>
+      <Joined>2007-05-22T11:10:18</Joined>
+      <Subscribers>222324</Subscribers>
+      <TotalVideos>1241</TotalVideos>
+      <TotalViews>32012610</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>PauseUnpause</ID>
+      <Name>PauseUnpause</Name>
+      <InfoLastUpdated>2015-05-04T18:25:07.0236219+03:00</InfoLastUpdated>
+      <Joined>2011-02-11T20:28:58</Joined>
+      <Subscribers>648671</Subscribers>
+      <TotalVideos>3837</TotalVideos>
+      <TotalViews>155803540</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>MaxTheInfinite</ID>
+      <Name>MaxInfinite</Name>
+      <InfoLastUpdated>2015-05-04T18:25:07.1577188+03:00</InfoLastUpdated>
+      <Joined>2014-01-15T15:24:33</Joined>
+      <Subscribers>130501</Subscribers>
+      <TotalVideos>1190</TotalVideos>
+      <TotalViews>36278979</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>Bundesliga</ID>
+      <Name>Bundesliga</Name>
+      <InfoLastUpdated>2015-05-04T18:25:07.6730929+03:00</InfoLastUpdated>
+      <Joined>2006-04-01T22:10:07</Joined>
+      <Subscribers>620729</Subscribers>
+      <TotalVideos>1511</TotalVideos>
+      <TotalViews>162049642</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>webTVBrasov</ID>
+      <Name>webTVBrasov</Name>
+      <InfoLastUpdated>2015-05-04T18:25:08.4086266+03:00</InfoLastUpdated>
+      <Joined>2012-01-02T13:42:36</Joined>
+      <Subscribers>1312</Subscribers>
+      <TotalVideos>396</TotalVideos>
+      <TotalViews>1301393</TotalViews>
+      <Videos />
+    </TYoutuber>
+    <TYoutuber>
+      <ID>CGPGrey</ID>
+      <Name>CGP Grey</Name>
+      <InfoLastUpdated>2015-05-04T18:25:08.3466448+03:00</InfoLastUpdated>
+      <Joined>2010-08-12T20:12:29</Joined>
+      <Subscribers>1740821</Subscribers>
+      <TotalVideos>88</TotalVideos>
+      <TotalViews>153529183</TotalViews>
+      <Videos />
+    </TYoutuber>
+  </Youtubers>
+  <BookmarkedVideos>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>SK3TiA7D1os</ID>
+        <Uploaded>2015-02-20T03:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 40 - Hat Trick</Title>
+        <Duration>1321</Duration>
+        <Views>5032</Views>
+        <Likes>569</Likes>
+        <Dislikes>2</Dislikes>
+        <AvgRating>4.9859896</AvgRating>
+        <Comments>29</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>IMbYeyOl5p8</ID>
+        <Uploaded>2015-02-22T03:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 41 - Ornery</Title>
+        <Duration>908</Duration>
+        <Views>4838</Views>
+        <Likes>511</Likes>
+        <Dislikes>5</Dislikes>
+        <AvgRating>4.9612403</AvgRating>
+        <Comments>20</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>KO_Qaxdqe-s</ID>
+        <Uploaded>2015-03-04T03:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 42 - Goat Strats</Title>
+        <Duration>989</Duration>
+        <Views>3578</Views>
+        <Likes>537</Likes>
+        <Dislikes>3</Dislikes>
+        <AvgRating>4.977778</AvgRating>
+        <Comments>49</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>OpJmAa4Lgjg</ID>
+        <Uploaded>2015-03-06T03:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 43 - Gang Beats</Title>
+        <Duration>950</Duration>
+        <Views>5911</Views>
+        <Likes>594</Likes>
+        <Dislikes>2</Dislikes>
+        <AvgRating>4.986577</AvgRating>
+        <Comments>41</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>BDuear9YZ3c</ID>
+        <Uploaded>2015-03-08T03:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 44 - End at Start</Title>
+        <Duration>1422</Duration>
+        <Views>7748</Views>
+        <Likes>898</Likes>
+        <Dislikes>4</Dislikes>
+        <AvgRating>4.9822617</AvgRating>
+        <Comments>21</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>WZT609FaqFA</ID>
+        <Uploaded>2015-03-04T16:00:00</Uploaded>
+        <Title>Let's Play Gravity Ghost - 08 - The Black Hole</Title>
+        <Duration>1536</Duration>
+        <Views>4149</Views>
+        <Likes>515</Likes>
+        <Dislikes>2</Dislikes>
+        <AvgRating>4.984526</AvgRating>
+        <Comments>50</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>Uetx9JmgsRM</ID>
+        <Uploaded>2015-03-11T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 45 - Streaming</Title>
+        <Duration>1170</Duration>
+        <Views>6781</Views>
+        <Likes>664</Likes>
+        <Dislikes>1</Dislikes>
+        <AvgRating>4.993985</AvgRating>
+        <Comments>7</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>YTAgU5LTwiE</ID>
+        <Uploaded>2015-03-13T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 46 - Winning Block of Ice</Title>
+        <Duration>916</Duration>
+        <Views>5528</Views>
+        <Likes>633</Likes>
+        <Dislikes>0</Dislikes>
+        <AvgRating>5</AvgRating>
+        <Comments>33</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>ur5_S-EDvG0</ID>
+        <Uploaded>2015-03-15T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 47 - Vanilla Edition</Title>
+        <Duration>1174</Duration>
+        <Views>8621</Views>
+        <Likes>808</Likes>
+        <Dislikes>3</Dislikes>
+        <AvgRating>4.9852033</AvgRating>
+        <Comments>34</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>PB_En8Z2M5I</ID>
+        <Uploaded>2015-04-12T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 53 - Bloop</Title>
+        <Duration>1097</Duration>
+        <Views>3483</Views>
+        <Likes>538</Likes>
+        <Dislikes>1</Dislikes>
+        <AvgRating>4.992579</AvgRating>
+        <Comments>46</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>ly0A9x7US7U</ID>
+        <Uploaded>2015-04-05T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 50 - De-Thawed</Title>
+        <Duration>861</Duration>
+        <Views>7171</Views>
+        <Likes>737</Likes>
+        <Dislikes>3</Dislikes>
+        <AvgRating>4.9837837</AvgRating>
+        <Comments>31</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>7O2U25Km4uo</ID>
+        <Uploaded>2015-04-08T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 51 - De-Millbee'd</Title>
+        <Duration>1072</Duration>
+        <Views>7746</Views>
+        <Likes>824</Likes>
+        <Dislikes>1</Dislikes>
+        <AvgRating>4.9951515</AvgRating>
+        <Comments>53</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+    <VideoWithYoutuberID>
+      <YoutuberID>kurtjmac</YoutuberID>
+      <Video>
+        <ID>0O0QYUgrN2w</ID>
+        <Uploaded>2015-04-10T02:00:00</Uploaded>
+        <Title>SpeedRunners with MindCrack - 52 - Bucket Brigade</Title>
+        <Duration>1057</Duration>
+        <Views>6170</Views>
+        <Likes>605</Likes>
+        <Dislikes>4</Dislikes>
+        <AvgRating>4.973727</AvgRating>
+        <Comments>24</Comments>
+      </Video>
+    </VideoWithYoutuberID>
+  </BookmarkedVideos>
+</TDatabase>

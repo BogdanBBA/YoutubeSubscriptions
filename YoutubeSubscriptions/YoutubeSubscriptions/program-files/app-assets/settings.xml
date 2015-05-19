@@ -1,0 +1,18 @@
+<SETTINGS lastSavedCirca="Fri, 3 April 2015, 00:38">
+  <VideoDaysGoBack value="7" />
+  <VideoColumns value="3" />
+  <UploaderInformationTypeIndex value="2" />
+  <SubscriptionBoxSubtitleIndex value="4" />
+  <DefaultQualityIndex value="3" />
+  <DefaultVolume value="50" />
+  <SkipSeconds value="12" />
+  <DefaultPlaybackRate value="1" />
+  <UploadedFormatIndex value="1" />
+  <ShowVideoTitle value="True" />
+  <ShowVideoStats value="True" />
+  <DownloadThumbnailsAnyway value="False" />
+  <ShowVideoLengthOnThumb value="True" />
+  <ShowVideoUploader value="True" />
+  <CompactSubscriptionBox value="False" />
+  <StartFullWindow value="True" />
+</SETTINGS>
